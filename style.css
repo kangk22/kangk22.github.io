@@ -140,6 +140,19 @@ img {
   margin-top: 0.5em;
 }
 
+.final-project {
+  text-align: center;
+}
+
+.final-project a {
+  color: sienna;
+  text-decoration: none;
+} 
+
+.final-project a:hover {
+  color: orangered;
+}
+
 .button {
   margin-bottom: 1em;
 }
